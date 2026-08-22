@@ -1,0 +1,24 @@
+<script>
+	import '/src/layout.css';
+	import './lib/i18n';
+</script>
+
+<!doctype html>
+<html lang="de" data-theme="light">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta name="robots" content="noindex, nofollow" />
+		<script>
+			// Safely run only in the browser
+			if (typeof window !== 'undefined') {
+				const theme = localStorage.getItem('theme') || 'light';
+				document.documentElement.dataset.theme = theme;
+			}
+		</script>
+		%sveltekit.head%
+	</head>
+	<body data-sveltekit-preload-data="hover">
+		<div style="display: contents">%sveltekit.body%</div>
+	</body>
+</html>

@@ -1,0 +1,128 @@
+[
+    {
+        "Type": "PaysVAT",
+        "Score": 0,
+        "Operator": "+",
+        "NScore": 0,
+        "NOperator": "+"
+    },
+    {
+        "Type": "PaysIncomeTax",
+        "Score": 0,
+        "Operator": "-",
+        "NScore": 0,
+        "NOperator": "+"
+    },
+    {
+        "Type": "BusinessToBusiness",
+        "Score": 0,
+        "Operator": "-",
+        "NScore": 0,
+        "NOperator": "+"
+    },
+    {
+        "Type": "BusinessToPersonal",
+        "Score": 0,
+        "Operator": "+",
+        "NScore": 0,
+        "NOperator": "+"
+    },
+    {
+        "Type": "PersonalToBusiness",
+        "Score": 0,
+        "Operator": "+",
+        "NScore": 0,
+        "NOperator": "+"
+    },
+    {
+        "Type": "PersonalToPersonal",
+        "Score": 0,
+        "Operator": "+",
+        "NScore": 0,
+        "NOperator": "+"
+    },
+    {
+        "Type": "BusinessToBusinessIncomePaid",
+        "Score": 0,
+        "Operator": "-",
+        "NScore": 0,
+        "NOperator": "+"
+    },
+    {
+        "Type": "BusinessToPersonalIncomePaid",
+        "Score": 0,
+        "Operator": "-",
+        "NScore": 0,
+        "NOperator": "+"
+    },
+    {
+        "Type": "PersonalToBusinessIncomePaid",
+        "Score": 0,
+        "Operator": "-",
+        "NScore": 0,
+        "NOperator": "+"
+    },
+    {
+        "Type": "PersonalToPersonalIncomePaid",
+        "Score": 0,
+        "Operator": "-",
+        "NScore": 0,
+        "NOperator": "+"
+    },
+    {
+        "Type": "BusinessToBusinessVATPaid",
+        "Score": 0,
+        "Operator": "-",
+        "NScore": 0,
+        "NOperator": "+"
+    },
+    {
+        "Type": "BusinessToPersonalVATPaid",
+        "Score": 0,
+        "Operator": "-",
+        "NScore": 0,
+        "NOperator": "+"
+    },
+    {
+        "Type": "PersonalToBusinessVATPaid",
+        "Score": 0,
+        "Operator": "-",
+        "NScore": 0,
+        "NOperator": "+"
+    },
+    {
+        "Type": "PersonalToPersonalVATPaid",
+        "Score": 0,
+        "Operator": "-",
+        "NScore": 0,
+        "NOperator": "+"
+    },
+    {
+        "Type": "DescriptionIndicatesCashRegister",
+        "Score": 0,
+        "Operator": "-",
+        "NScore": 0,
+        "NOperator": "+"
+    },
+    {
+        "Type": "DescriptionIndicatesSalary",
+        "Score": 0,
+        "Operator": "-",
+        "NScore": 0,
+        "NOperator": "+"
+    },
+    {
+        "Type": "HighAverageTransactionAmount",
+        "Score": 0,
+        "Operator": "-",
+        "NScore": 0,
+        "NOperator": "+"
+    },
+    {
+        "Type": "HighTransactionFrequency",
+        "Score": 0,
+        "Operator": "-",
+        "NScore": 0,
+        "NOperator": "+"
+    }
+]

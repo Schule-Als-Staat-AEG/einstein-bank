@@ -1,0 +1,51 @@
+{
+    "database": {
+        "remote": "localhost:7001",
+        "identity": "system@something.com",
+        "password": "password",
+        "location": "_superusers"
+    },
+    "server": {
+        "port": 7002,
+        "enableRateLimiting": true,
+        "rateLimitWindowSeconds": 1,
+        "rateLimitPermitLimit": 5,
+        "rateLimitQueueProcessingOrder": "OldestFirst",
+        "rateLimitQueueLimit": 10,
+        "transactionRateLimitWindowSeconds": 5,
+        "transactionRateLimitPermitLimit": 2
+    },
+    "stats": {
+        "collect": true,
+        "statsRetention": 100
+    },
+    "email": {
+        "sendEmail": false,
+        "smtpServer": "smtp.example.com",
+        "smtpPort": 587,
+        "username": "user@example.com",
+        "password": "email_password"
+    },
+    "security": {
+        "captchaEnabled": true,
+        "captchaRateLimit": 5000,
+        "captchaValidity": 300,
+        "requestScanningEnabled": true,
+        "ipForwardingEnabled": true,
+        "ipForwardedHeader": "X-Forwarded-For",
+        "ipBlocklistEnabled": true,
+        "ipBlockingEnabled": true,
+        "accessLogMaxRetentionMinutes": 10,
+        "transactionMaxIps": 5,
+        "transactionIpTimeWindowSeconds": 30,
+        "blockAfterAttempts": 5,
+        "blockDurationMinutes": 10
+    },
+    "extras_worktime": {
+        "enabled": true,
+        "remote": "localhost:7021",
+        "identity": "system@something.com",
+        "password": "password",
+        "location": "_superusers"
+    }
+}

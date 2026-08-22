@@ -1,0 +1,1102 @@
+[
+    {
+        "id": "arbeitsamt",
+        "name": "Arbeitsamt",
+        "room": "Container 2",
+        "floor": 1,
+        "x": 224,
+        "y": 163,
+        "aliases": ["Agentur für Arbeit", "Jobcenter", "Arbeitsagentur", "Arbeitsamt"],
+        "description": "Bei den Containern zwischen Bau 1 und Bau 3"
+    },
+    {
+		"id": "standesamt",
+		"name": "Standesamt",
+		"room": "Container 2",
+		"floor": 1,
+		"x": 224,
+        "y": 163,
+		"aliases": ["Heiratsamt", "Standesamt", "Eheschließung", "Trauung"],
+		"description": "Bei den Containern zwischen Bau 1 und Bau 3"
+	},
+    {
+        "id": "umwelt",
+        "name": "Umweltamt",
+        "room": "Container 2",
+        "floor": 1,
+        "x": 224,
+        "y": 163,
+        "aliases": ["Umweltamt", "Umweltbehörde"],
+        "description": "Bei den Containern zwischen Bau 1 und Bau 3"
+    },
+    {
+        "id": "polizei",
+        "name": "Polizei",
+        "room": "Container 1",
+        "floor": 1,
+        "x": 224,
+        "y": 146,
+        "aliases": ["Polizei", "Kriminalpolizei", "Landespolizei"],
+        "description": "Bei den Containern zwischen Bau 1 und Bau 3"
+    },
+    {
+        "id": "staatsanwaltschaft",
+        "name": "Staatsanwaltschaft",
+        "room": "Cafeteria",
+        "floor": 1,
+        "x": 55,
+        "y": 121,
+        "aliases": ["Staatsanwaltschaft", "Staatsanwalt", "Anklagebehörde"],
+        "description": "In der Cafeteria links neben der Aula"
+    },
+    {
+        "id": "hygienekontrolldienst",
+        "name": "Hygienekontrolldienst",
+        "room": "Container 3",
+        "floor": 2,
+        "x": 230,
+        "y": 113,
+        "aliases": ["Hygienekontrolldienst", "Gesundheitsamt"],
+        "description": "Bei den Containern zwischen Bau 1 und Bau 3"
+    },
+    {
+		"id": "einstein-bank",
+		"name": "Einstein Bank",
+		"room": "Container 3",
+		"floor": 2,
+		"x": 230,
+		"y": 113,
+		"aliases": ["Bank", "Finanzministerium", "Finanzamt", "Finanzbehörde"],
+		"description": "Bei den Containern zwischen Bau 1 und Bau 3"
+	},
+    {
+        "id": "wirtschaftskontrolldienst",
+        "name": "Wirtschaftskontrolldienst",
+        "room": "Container 3",
+        "floor": 2,
+        "x": 230,
+		"y": 113,
+        "aliases": ["Wirtschaftskontrolldienst", "Wirtschaftsamt"],
+        "description": "Bei den Containern zwischen Bau 1 und Bau 3"
+    },
+    {
+        "id": "insolvenzamt",
+        "name": "Insolvenzamt",
+        "room": "Container 3",
+        "floor": 2,
+        "x": 230,
+        "y": 113,
+        "aliases": ["Insolvenzamt", "Insolvenzbehörde"],
+        "description": "Bei den Containern zwischen Bau 1 und Bau 3"
+    },
+    {
+        "id": "gericht",
+        "name": "Gericht",
+        "room": "Cafeteria",
+        "floor": 1,
+        "x": 55,
+        "y": 121,
+        "aliases": ["Gericht", "Justizbehörde", "Justizamt", "Verfassungsgericht", "Zivilgericht", "Strafgericht", "Amtsgericht", "Landgericht", "Oberlandesgericht"],
+        "description": "In der Cafeteria links neben der Aula"
+    },
+    {
+        "id": "warenlager",
+        "name": "Warenlager",
+        "room": "Oberstufenraum",
+        "floor": 1,
+        "x": 240,
+        "y": 94,
+        "aliases": ["Warenlager", "Lagerraum", "Lagerhalle"],
+        "description": "Beim Linken Eingang von Bau 3"
+    },
+    {
+        "id": "infostand",
+        "name": "Infostand",
+        "room": "Vor dem Lehrerzimmer von Bau 1",
+        "floor": 1,
+        "x": 167,
+        "y": 106,
+        "aliases": ["Infostand", "Information", "Info"],
+        "description": "Vor dem Gang zum Lehrerzimmer von Bau 1"
+    },
+    {
+        "id": "wertstoffhof",
+        "name": "Wertstoffhof",
+        "room": "Müllsammelstelle",
+        "floor": 1,
+        "x": 39,
+        "y": 166,
+        "aliases": ["Wertstoffhof", "Müllsammelstelle", "Recyclinghof"],
+        "description": "Links vom Haupteingang von Bau 1"
+    },
+    {
+        "id": "spuelstation",
+        "name": "Spülstation",
+        "room": "Lehrerzimmer (Bau 3)",
+        "floor": 2,
+        "x": 237,
+        "y": 70,
+        "aliases": ["Spülstation"],
+        "description": "Lehrerzimmer in Bau 3"
+    },
+    {
+        "id": "parlament",
+        "name": "Parlament",
+        "room": "Vortragssaal",
+        "floor": 1,
+        "x": 112,
+        "y": 106,
+        "aliases": ["Parlament", "Vortragssaal", "Sitzungssaal", "Legislative"],
+        "description": "In der Aula von Bau 1"
+    },
+    {
+        "id": "digibooks",
+        "name": "DigiBooks",
+        "room": "Bücherkeller",
+        "floor": 1,
+        "x": 177,
+        "y": 125.5,
+        "aliases": ["DigiBooks", "Bücherkeller"],
+        "description": "Eingang im Gang zum Lehrerzimmer von Bau 1"
+    },
+    {
+        "id": "steinzeitung",
+        "name": "Die Steinzeitung",
+        "room": "R13",
+        "floor": 2,
+        "x": 100,
+        "y": 44,
+        "aliases": ["Die Steinzeitung", "R13", "Schülerzeitung", "Presse"],
+        "description": "In R13"
+    },
+    {
+        "id": "unt#haus_der_wundertueten",
+        "name": "Haus der Wundertüten",
+        "room": "R9",
+        "floor": 2,
+        "x": 58,
+        "y": 27,
+        "aliases": ["Haus der Wundertüten", "R9", "Kunst und Kultur"],
+        "description": "In R9"
+    },
+    {
+        "id": "unt#second_style",
+        "name": "Second Style",
+        "room": "R17",
+        "floor": 2,
+        "x": 135,
+        "y": 26,
+        "aliases": ["Second Style", "R17", "Kunst und Kultur"],
+        "description": "In R17"
+    },
+    {
+        "id": "unt#perlensalon",
+        "name": "Perlernsalon",
+        "room": "R17",
+        "floor": 2,
+        "x": 135,
+        "y": 26,
+        "aliases": ["Perlernsalon", "R17", "Kunst und Kultur"],
+        "description": "In R17"
+    },
+    {
+        "id": "unt#tattoo_und_tee",
+        "name": "Tattoo und Tee",
+        "room": "R18",
+        "floor": 2,
+        "x": 133,
+        "y": 43.5,
+        "aliases": ["Tattoo und Tee", "R18", "Kunst und Kultur"],
+        "description": "In R18"
+    },
+    {
+        "id": "unt#woll_verwickelt_knuepft_und_haekel_dich_hyggelig",
+        "name": "Woll Verwickelt - Knüpft und Häkel dich hyggelig",
+        "room": "R20",
+        "floor": 2,
+        "x": 148.5,
+        "y": 26,
+        "aliases": ["Woll Verwickelt - Knüpft und Häkel dich hyggelig", "R20", "Kunst und Kultur"],
+        "description": "In R20"
+    },
+    {
+        "id": "unt#creative_und_co",
+        "name": "Creative und Co",
+        "room": "R22",
+        "floor": 2,
+        "x": 175,
+        "y": 25,
+        "aliases": ["Creative und Co", "R22", "Kunst und Kultur"],
+        "description": "In R22"
+    },
+    {
+        "id": "unt#mysterybox",
+        "name": "Mysterybox",
+        "room": "R23",
+        "floor": 2,
+        "x": 175,
+        "y": 40,
+        "aliases": ["Mysterybox", "R23", "Kunst und Kultur"],
+        "description": "In R23"
+    },
+    {
+        "id": "unt#4_cherry_blossoms_tattoo_shop",
+        "name": "4 Cherry Blossoms Tattoo Shop",
+        "room": "R27",
+        "floor": 2,
+        "x": 219,
+        "y": 23,
+        "aliases": ["4 Cherry Blossoms Tattoo Shop", "R27", "Kunst und Kultur"],
+        "description": "In R27"
+    },
+    {
+        "id": "unt#vogue_visions",
+        "name": "Vogue Visions",
+        "room": "R29",
+        "floor": 2,
+        "x": 220,
+        "y": 53,
+        "aliases": ["Vogue Visions", "R29", "Kunst und Kultur"],
+        "description": "In R29"
+    },
+    {
+        "id": "unt#diy_bracelets",
+        "name": "DIY Bracelets",
+        "room": "R34",
+        "floor": 2,
+        "x": 279,
+        "y": 68.5,
+        "aliases": ["DIY Bracelets", "R34", "Kunst und Kultur"],
+        "description": "In R34"
+    },
+    {
+        "id": "unt#up_upcycling_mit_papier",
+        "name": "UP: Upcycling mit Papier",
+        "room": "R36",
+        "floor": 2,
+        "x": 250,
+        "y": 70,
+        "aliases": ["UP: Upcycling mit Papier", "R36", "Kunst und Kultur"],
+        "description": "In R36"
+    },
+    {
+        "id": "unt#tolle_lege_dein_literaturhaus",
+        "name": "Tolle Lege. Dein Literaturhaus",
+        "room": "R36",
+        "floor": 2,
+        "x": 250,
+        "y": 70,
+        "aliases": ["Tolle Lege. Dein Literaturhaus", "R36", "Kunst und Kultur"],
+        "description": "In R36"
+    },
+    {
+        "id": "unt#bioartlab",
+        "name": "BioArtLab",
+        "room": "Bio 3",
+        "floor": 1,
+        "x": 180,
+        "y": 80,
+        "aliases": ["BioArtLab", "Bio 3", "Biologie und Kunst"],
+        "description": "In Bio 3"
+    },
+    {
+        "id": "unt#flexcard",
+        "name": "FlexCard",
+        "room": "NWT 1",
+        "floor": 1,
+        "x": 260,
+        "y": 50,
+        "aliases": ["FlexCard", "NWT 1", "Kunst und Kultur"],
+        "description": "In NWT 1"
+    },
+    {
+        "id": "unt#schoenes_gestalten",
+        "name": "Schönes Gestalten",
+        "room": "NWT 2",
+        "floor": 1,
+        "x": 140,
+        "y": 65,
+        "aliases": ["Schönes Gestalten", "NWT 2", "Kunst und Kultur"],
+        "description": "In NWT 2"
+    },
+    {
+        "id": "unt#pausenblatt_second_hand",
+        "name": "Pausenblatt Second Hand",
+        "room": "Physik 3",
+        "floor": 1,
+        "x": 275,
+        "y": 50,
+        "aliases": ["Pausenblatt Second Hand", "Physik 3", "Kunst und Kultur"],
+        "description": "In Physik 3"
+    },
+    {
+        "id": "unt#musikschule_ukulalaland",
+        "name": "Musikschule Ukulalaland",
+        "room": "Musik 1",
+        "floor": 1,
+        "x": 25,
+        "y": 125,
+        "aliases": ["Musikschule Ukulalaland", "Musik 1", "Kunst und Kultur"],
+        "description": "In Musik 1"
+    },
+    {
+        "id": "unt#kunstfabrik",
+        "name": "Kunstfabrik",
+        "room": "Zeichnen 1 & 2",
+        "floor": 1,
+        "x": 25,
+        "y": 75,
+        "aliases": ["Kunstfabrik", "Zeichnen 1 & 2", "Kunst und Kultur"],
+        "description": "In Zeichnen 1 & 2"
+    },
+    {
+        "id": "unt#who_is_who_am_aeg",
+        "name": "Who is Who? Am AEG?",
+        "room": "E20",
+        "floor": 1,
+        "x": 157,
+        "y": 121,
+        "aliases": ["Who is Who? Am AEG?", "E20", "Kunst und Kultur", "Museum"],
+        "description": "In E20 im Gang vom Lehrerzimmer von Bau 1"
+    },
+    {
+        "id": "unt#nik_las_vegas",
+        "name": "Nik Las Vegas",
+        "room": "R10",
+        "floor": 2,
+        "x": 70,
+        "y": 25,
+        "aliases": ["Nik Las Vegas", "R10", "Unterhaltung", "Kasino", "Casino"],
+        "description": "In R10"
+    },
+    {
+        "id": "unt#kino_einstein",
+        "name": "Kino Einstein",
+        "room": "R11",
+        "floor": 2,
+        "x": 85,
+        "y": 26,
+        "aliases": ["Kino Einstein", "R11", "Unterhaltung", "Kino"],
+        "description": "In R11"
+    },
+    {
+        "id": "unt#online_oase",
+        "name": "Online Oase",
+        "room": "R18",
+        "floor": 2,
+        "x": 133,
+        "y": 41,
+        "aliases": ["Online Oase", "R18", "Unterhaltung", "Internet", "Computer"],
+        "description": "In R18"
+    },
+    {
+        "id": "unt#spielhalle_locus_artis",
+        "name": "Spielhalle Locus Artis",
+        "room": "R19",
+        "floor": 2,
+        "x": 150,
+        "y": 42,
+        "aliases": ["Spielhalle Locus Artis", "R19", "Unterhaltung", "Spielhalle", "Kasino", "Casino"],
+        "description": "In R19"
+    },
+    {
+        "id": "unt#discotheque_nova",
+        "name": "Discotheque Nova",
+        "room": "R24",
+        "floor": 2,
+        "x": 174,
+        "y": 54,
+        "aliases": ["Discotheque Nova", "R24", "Unterhaltung", "Disco"],
+        "description": "In R24"
+    },
+    {
+        "id": "unt#casino_royal",
+        "name": "Casino Royal",
+        "room": "R26",
+        "floor": 2,
+        "x": 220,
+        "y": 38,
+        "aliases": ["Casino Royal", "R26", "Unterhaltung", "Kasino", "Casino"],
+        "description": "In R26"
+    },
+    {
+        "id": "unt#einstein_entertainment",
+        "name": "Einstein Entertainment",
+        "room": "R28",
+        "floor": 2,
+        "x": 234,
+        "y": 21,
+        "aliases": ["Einstein Entertainment", "R28", "Unterhaltung"],
+        "description": "In R28"
+    },
+    {
+        "id": "unt#xinemax",
+        "name": "Xinemax",
+        "room": "Bio 4",
+        "floor": 1,
+        "x": 159,
+        "y": 81,
+        "aliases": ["Xinemax", "Bio 4", "Unterhaltung", "Kino"],
+        "description": "In Bio 4 vor dem Lehrerzimmer von Bau 1"
+    },
+    {
+        "id": "unt#starlight_cinema",
+        "name": "Starlight Cinema",
+        "room": "Physik 4",
+        "floor": 1,
+        "x": 275,
+        "y": 84,
+        "aliases": ["Starlight Cinema", "Physik 4", "Unterhaltung", "Kino"],
+        "description": "In Physik 4"
+    },
+    {
+        "id": "unt#zukunft_und_quatsch_gmbh",
+        "name": "Zukunft und Quatsch GmbH",
+        "room": "E19",
+        "floor": 1,
+        "x": 157,
+        "y": 112,
+        "aliases": ["Zukunft und Quatsch GmbH", "E19", "Unterhaltung"],
+        "description": "In E19 im Gang vom Lehrerzimmer von Bau 1"
+    },
+    {
+        "id": "unt#the_face_off",
+        "name": "The Face Off",
+        "room": "Sportplatz/R61",
+        "floor": 1,
+        "x": 4,
+        "y": 100,
+        "aliases": ["The Face Off", "Sportplatz", "Sport"],
+        "description": "Sportplatz/R61"
+    },
+    {
+        "id": "unt#the_beast_mode_gym",
+        "name": "The Beast Mode Gym",
+        "room": "Sportplatz/R62",
+        "floor": 1,
+        "x": 210,
+        "y": 200,
+        "aliases": ["The Beast Mode Gym", "Sportplatz", "Sport"],
+        "description": "Sportplatz/R62"
+    },
+    {
+        "id": "unt#jotha",
+        "name": "Jotha",
+        "room": "Alte Halle",
+        "floor": 1,
+        "x": 210,
+        "y": 200,
+        "aliases": ["Jotha", "Alte Halle", "Sport"],
+        "description": "In/Vor der Alten Halle"
+    },
+    {
+        "id": "unt#aeg_bewegt",
+        "name": "AEG BEWEGT",
+        "room": "Schulhof Haupteingang",
+        "floor": 1,
+        "x": 93.5,
+        "y": 165,
+        "aliases": ["AEG BEWEGT", "Schulhof Haupteingang", "Sport"],
+        "description": "Vor dem Haupteingang"
+    },
+    {
+        "id": "unt#qigong",
+        "name": "Qigong",
+        "room": "Pausenhof Realschule",
+        "floor": 1,
+        "x": 4,
+        "y": 20,
+        "aliases": ["Qigong", "Pausenhof Realschule", "Sport"],
+        "description": "Auf dem Pausenhof der Realschule"
+    },
+    {
+        "id": "unt#geschicklichkeitsparkour",
+        "name": "Geschicklichkeitsparkour",
+        "room": "Musik 3",
+        "floor": 1,
+        "x": 4,
+        "y": 100,
+        "aliases": ["Geschicklichkeitsparkour", "Musik 3", "Sport"],
+        "description": "Musik 3 - Vom Eingang zu Bau 2 die Treppe hoch und links"
+    },
+    {
+        "id": "unt#fkg_games",
+        "name": "JFG Games",
+        "room": "Tischtennisplatte (draußen)",
+        "floor": 1,
+        "x": 260,
+        "y": 120,
+        "aliases": ["JFG Games", "Tischtennisplatte (draußen)", "Sport"],
+        "description": "Bei der Tischtennisplatte draußen"
+    },
+    {
+        "id": "unt#tanzschule",
+        "name": "Tanzschule",
+        "room": "E1",
+        "floor": 1,
+        "x": 65,
+        "y": 135,
+        "aliases": ["Tanzschule", "E1", "Sport"],
+        "description": "In E1 in der Aula"
+    },
+    {
+        "id": "unt#cafe_fenshl",
+        "name": "Café Fenshl",
+        "room": "R9",
+        "floor": 2,
+        "x": 58,
+        "y": 27,
+        "aliases": ["Café Fenshl", "R9", "Bar & Café", "Bar & Cafe", "Cafe Fenshl"],
+        "description": "In R9"
+    },
+    {
+        "id": "unt#zuckerwattenbude",
+        "name": "Zuckerwattenbude",
+        "room": "R9",
+        "floor": 2,
+        "x": 58,
+        "y": 27,
+        "aliases": ["Zuckerwattenbude", "R9", "Bar & Café", "Bar & Cafe"],
+        "description": "In R9"
+    },
+    {
+        "id": "unt#magic_drinks",
+        "name": "Magic Drinks",
+        "room": "R10",
+        "floor": 2,
+        "x": 70,
+        "y": 25,
+        "aliases": ["Magic Drinks", "R10", "Bar & Café", "Bar & Cafe"],
+        "description": "In R10"
+    },
+    {
+        "id": "unt#fun_food_factory",
+        "name": "Fun Food Factory",
+        "room": "R11",
+        "floor": 2,
+        "x": 85,
+        "y": 26,
+        "aliases": ["Fun Food Factory", "R11", "Bar & Café", "Bar & Cafe"],
+        "description": "In R11"
+    },
+    {
+        "id": "unt#pop_and_chill",
+        "name": "Pop & Chill",
+        "room": "R13",
+        "floor": 2,
+        "x": 100,
+        "y": 44,
+        "aliases": ["Pop & Chill", "R13", "Bar & Café", "Bar & Cafe"],
+        "description": "In R13"
+    },
+    {
+        "id": "unt#golden_bite",
+        "name": "Golden Bite",
+        "room": "R14",
+        "floor": 2,
+        "x": 98,
+        "y": 27,
+        "aliases": ["Golden Bite", "R14", "Bar & Café", "Bar & Cafe"],
+        "description": "In R14"
+    },
+    {
+        "id": "unt#i_l_f_cafe",
+        "name": "I, L, F's Café",
+        "room": "R15",
+        "floor": 2,
+        "x": 110,
+        "y": 26,
+        "aliases": ["I, L, F's Café", "R15", "Bar & Café", "Bar & Cafe"],
+        "description": "In R15"
+    },
+    {
+        "id": "unt#geschmacksexplosion",
+        "name": "Geschmacksexplosion",
+        "room": "R15",
+        "floor": 2,
+        "x": 110,
+        "y": 26,
+        "aliases": ["Geschmacksexplosion", "R15", "Bar & Café", "Bar & Cafe"],
+        "description": "In R15"
+    },
+    {
+        "id": "unt#das_girly_cafe",
+        "name": "Das Girly Café",
+        "room": "R16",
+        "floor": 2,
+        "x": 123,
+        "y": 26,
+        "aliases": ["Das Girly Café", "R16", "Bar & Café", "Bar & Cafe"],
+        "description": "In R16"
+    },
+    {
+        "id": "unt#eiszeit",
+        "name": "Eiszeit",
+        "room": "R16",
+        "floor": 2,
+        "x": 123,
+        "y": 26,
+        "aliases": ["Eiszeit", "R16", "Bar & Café", "Bar & Cafe"],
+        "description": "In R16"
+    },
+    {
+        "id": "unt#the_sweet_factory",
+        "name": "The Sweet Factory",
+        "room": "R17",
+        "floor": 2,
+        "x": 135,
+        "y": 26,
+        "aliases": ["The Sweet Factory", "R17", "Bar & Café", "Bar & Cafe"],
+        "description": "In R17"
+    },
+    {
+        "id": "unt#snack_corner",
+        "name": "Snack Corner",
+        "room": "R18",
+        "floor": 2,
+        "x": 133,
+        "y": 43.5,
+        "aliases": ["Snack Corner", "R18", "Bar & Café", "Bar & Cafe"],
+        "description": "In R18"
+    },
+    {
+        "id": "unt#lounge_locus_artis",
+        "name": "Lounge Locus Artis",
+        "room": "R19",
+        "floor": 2,
+        "x": 150,
+        "y": 42,
+        "aliases": ["Lounge Locus Artis", "R19", "Bar & Café", "Bar & Cafe"],
+        "description": "In R19"
+    },
+    {
+        "id": "unt#shake_o_neil",
+        "name": "Shake O'Neil",
+        "room": "R20",
+        "floor": 2,
+        "x": 148.5,
+        "y": 26,
+        "aliases": ["Shake O'Neil", "R20", "Bar & Café", "Bar & Cafe"],
+        "description": "In R20"
+    },
+    {
+        "id": "unt#crepe_dich_gluecklich",
+        "name": "Crêpe dich glücklich",
+        "room": "R21",
+        "floor": 2,
+        "x": 160,
+        "y": 26,
+        "aliases": ["Crêpe dich glücklich", "R21", "Bar & Café", "Bar & Cafe", "Crepe dich glücklich"],
+        "description": "In R21"
+    },
+    {
+        "id": "unt#einstein_music_cafe",
+        "name": "Einstein Music Cafe",
+        "room": "R22",
+        "floor": 2,
+        "x": 175,
+        "y": 26,
+        "aliases": ["Einstein Music Cafe", "R22", "Bar & Café", "Bar & Cafe"],
+        "description": "In R22"
+    },
+    {
+        "id": "unt#united_bakes",
+        "name": "United Bakes",
+        "room": "R23",
+        "floor": 2,
+        "x": 173,
+        "y": 41,
+        "aliases": ["United Bakes", "R23", "Bar & Café", "Bar & Cafe"],
+        "description": "In R23"
+    },
+    {
+        "id": "unt#hello_kitty_cafe",
+        "name": "Hello Kitty Café",
+        "room": "R23",
+        "floor": 2,
+        "x": 173,
+        "y": 41,
+        "aliases": ["Hello Kitty Café", "R23", "Bar & Café", "Bar & Cafe"],
+        "description": "In R23"
+    },
+    {
+        "id": "unt#schoolbar",
+        "name": "Schoolbar",
+        "room": "R24",
+        "floor": 2,
+        "x": 174,
+        "y": 55,
+        "aliases": ["Schoolbar", "R24", "Bar & Café", "Bar & Cafe"],
+        "description": "In R24"
+    },
+    {
+        "id": "unt#baeckerei_backstein",
+        "name": "Bäckerei Backstein",
+        "room": "R25",
+        "floor": 2,
+        "x": 220,
+        "y": 52,
+        "aliases": ["Bäckerei Backstein", "R25", "Bar & Café", "Bar & Cafe"],
+        "description": "In R25"
+    },
+    {
+        "id": "unt#sweets",
+        "name": "Sweets",
+        "room": "R26",
+        "floor": 2,
+        "x": 220,
+        "y": 38,
+        "aliases": ["Sweets", "R26", "Bar & Café", "Bar & Cafe"],
+        "description": "In R26"
+    },
+    {
+        "id": "unt#chocolate_company",
+        "name": "Chocolate Company",
+        "room": "R27",
+        "floor": 2,
+        "x": 219,
+        "y": 23,
+        "aliases": ["Chocolate Company", "R27", "Bar & Café", "Bar & Cafe"],
+        "description": "In R27"
+    },
+    {
+        "id": "unt#fluffy_und_slushy",
+        "name": "Fluffy und Slushy",
+        "room": "R27",
+        "floor": 2,
+        "x": 219,
+        "y": 23,
+        "aliases": ["Fluffy und Slushy", "R27", "Bar & Café", "Bar & Cafe"],
+        "description": "In R27"
+    },
+    {
+        "id": "unt#waffeln_und_strawberries",
+        "name": "Waffeln und Strawberries",
+        "room": "R28",
+        "floor": 2,
+        "x": 233,
+        "y": 21,
+        "aliases": ["Waffeln und Strawberries", "R28", "Bar & Café", "Bar & Cafe"],
+        "description": "In R28"
+    },
+    {
+        "id": "unt#crazy_crepes",
+        "name": "Crazy Crêpes",
+        "room": "R30",
+        "floor": 2,
+        "x": 262,
+        "y": 21,
+        "aliases": ["Crazy Crêpes", "R30", "Bar & Café", "Bar & Cafe", "Crazy Crepes"],
+        "description": "In R30"
+    },
+    {
+        "id": "unt#cafe_stadtrand",
+        "name": "Café Stadtrand",
+        "room": "R31",
+        "floor": 2,
+        "x": 277,
+        "y": 21,
+        "aliases": ["Café Stadtrand", "R31", "Bar & Café", "Bar & Cafe"],
+        "description": "In R31"
+    },
+    {
+        "id": "unt#gelateria_di_italia",
+        "name": "Gelateria di Italia",
+        "room": "R31",
+        "floor": 2,
+        "x": 277,
+        "y": 21,
+        "aliases": ["Gelateria di Italia", "R31", "Bar & Café", "Bar & Cafe"],
+        "description": "In R31"
+    },
+    {
+        "id": "unt#zuckerpause",
+        "name": "Zuckerpause",
+        "room": "R32",
+        "floor": 2,
+        "x": 277,
+        "y": 36,
+        "aliases": ["Zuckerpause", "R32", "Bar & Café", "Bar & Cafe"],
+        "description": "In R32"
+    },
+    {
+        "id": "unt#coole_smoothies_von_tante_susie",
+        "name": "Coole Smoothies von Tante Susie",
+        "room": "R33",
+        "floor": 2,
+        "x": 278,
+        "y": 51,
+        "aliases": ["Coole Smoothies von Tante Susie", "R33", "Bar & Café", "Bar & Cafe"],
+        "description": "In R33"
+    },
+    {
+        "id": "unt#einsteins_sweetshop",
+        "name": "Einstein's Sweetshop",
+        "room": "R34",
+        "floor": 2,
+        "x": 279,
+        "y": 69,
+        "aliases": ["Einstein's Sweetshop", "R34", "Bar & Café", "Bar & Cafe"],
+        "description": "In R34"
+    },
+    {
+        "id": "unt#einsteins_erfrischungen",
+        "name": "Einsteins Erfrischungen",
+        "room": "R35",
+        "floor": 2,
+        "x": 264,
+        "y": 70,
+        "aliases": ["Einsteins Erfrischungen", "R35", "Bar & Café", "Bar & Cafe"],
+        "description": "In R35"
+    },
+    {
+        "id": "unt#mafioesis_eis",
+        "name": "Mafiösis Eis",
+        "room": "R37",
+        "floor": 2,
+        "x": 223,
+        "y": 71,
+        "aliases": ["Mafiösis Eis", "R37", "Bar & Café", "Bar & Cafe"],
+        "description": "In R37"
+    },
+    {
+        "id": "unt#cafe_einstein",
+        "name": "Café Einstein",
+        "room": "R37",
+        "floor": 2,
+        "x": 223,
+        "y": 71,
+        "aliases": ["Café Einstein", "R37", "Bar & Café", "Bar & Cafe"],
+        "description": "In R37"
+    },
+    {
+        "id": "unt#liquid_lab",
+        "name": "Liquid Lab",
+        "room": "Chemie 3",
+        "floor": 1,
+        "x": 226,
+        "y": 71,
+        "aliases": ["Liquid Lab", "Chemie 3", "Bar & Café", "Bar & Cafe"],
+        "description": "In Chemie 3"
+    },
+    {
+        "id": "unt#pausenblatt_cafe",
+        "name": "Pausenblatt Café",
+        "room": "Physik 3",
+        "floor": "1",
+        "x": 275,
+        "y": 50,
+        "aliases": ["Pausenblatt Café", "Physik 3", "Bar & Café", "Bar & Cafe"],
+        "description": "In Physik 3"
+    },
+    {
+        "id": "unt#nimm_mit",
+        "name": "Nimm mit",
+        "room": "Physik 4",
+        "floor": 1,
+        "x": 275,
+        "y": 84,
+        "aliases": ["Nimm mit", "Physik 4", "Bar & Café", "Bar & Cafe"],
+        "description": "In Physik 4"
+    },
+    {
+        "id": "unt#eis_und_popcorn",
+        "name": "Eis und Popcorn",
+        "room": "NWT 2",
+        "floor": 1,
+        "x": 140,
+        "y": 65,
+        "aliases": ["Eis und Popcorn", "NWT 2", "Bar & Café", "Bar & Cafe"],
+        "description": "In NWT 2"
+    },
+    {
+        "id": "unt#tiki_bar",
+        "name": "Tiki Bar",
+        "room": "U1",
+        "floor": 1,
+        "x": 111,
+        "y": 49,
+        "aliases": ["Tiki Bar", "U1", "Bar & Café", "Bar & Cafe"],
+        "description": "In U1"
+    },
+    {
+        "id": "unt#taverne_miraculix",
+        "name": "Taverne Miraculix",
+        "room": "E2",
+        "floor": "1",
+        "x": 77,
+        "y": 164,
+        "aliases": ["Taverne Miraculix", "E2", "Bar & Café", "Bar & Cafe"],
+        "description": "In E2"
+    },
+    {
+        "id": "unt#heiser_hund",
+        "name": "Heißer Hund",
+        "room": "R14",
+        "floor": 2,
+        "x": 98,
+        "y": 26,
+        "aliases": ["Heißer Hund", "R14", "Gastronomie"],
+        "description": "In R14"
+    },
+    {
+        "id": "unt#zum_sonneneck",
+        "name": "Zum Sonneneck",
+        "room": "R20",
+        "floor": 2,
+        "x": 148.5,
+        "y": 26,
+        "aliases": ["Zum Sonneneck", "R20", "Gastronomie"],
+        "description": "In R20"
+    },
+    {
+        "id": "unt#hotdogs",
+        "name": "Hotdogs",
+        "room": "R25",
+        "floor": 2,
+        "x": 220,
+        "y": 52,
+        "aliases": ["Hotdogs", "R25", "Gastronomie"],
+        "description": "In R25"
+    },
+    {
+        "id": "unt#eine_kleine_auszeit",
+        "name": "Eine kleine Auszeit",
+        "room": "R29",
+        "floor": 2,
+        "x": 248.5,
+        "y": 21,
+        "aliases": ["Eine kleine Auszeit", "R29", "Gastronomie"],
+        "description": "In R29"
+    },
+    {
+        "id": "unt#wonderful_wraps",
+        "name": "Wonderful Wraps",
+        "room": "R30",
+        "floor": 2,
+        "x": 262,
+        "y": 21,
+        "aliases": ["Wonderful Wraps", "R30", "Gastronomie"],
+        "description": "In R30"
+    },
+    {
+        "id": "unt#snack_shop",
+        "name": "Snack Shop",
+        "room": "R33",
+        "floor": 2,
+        "x": 278,
+        "y": 51,
+        "aliases": ["Snack Shop", "R33", "Gastronomie"],
+        "description": "In R33"
+    },
+    {
+        "id": "unt#elis_imbiss",
+        "name": "Eli's Imbiss",
+        "room": "R35",
+        "floor": 2,
+        "x": 264,
+        "y": 70,
+        "aliases": ["Eli's Imbiss", "R35", "Gastronomie"],
+        "description": "In R35"
+    },
+    {
+        "id": "unt#pizzaria_il_segnete",
+        "name": "Pizzaria Il segnete",
+        "room": "U1",
+        "floor": 1,
+        "x": 111,
+        "y": 49,
+        "aliases": ["Pizzaria Il segnete", "U1", "Gastronomie"],
+        "description": "In U1"
+    },
+    {
+        "id": "unt#kartoffelente",
+        "name": "Kartoffelente",
+        "room": "E2",
+        "floor": 2,
+        "x": 77,
+        "y": 164,
+        "aliases": ["Kartoffelente", "E2", "Gastronomie"],
+        "description": "In E2"
+    },
+    {
+        "id": "unt#kleinsteinofenpiza",
+        "name": "Kleinsteinofenpiza",
+        "room": "E2",
+        "floor": 1,
+        "x": 77,
+        "y": 164,
+        "aliases": ["Kleinsteinofenpiza", "E2", "Gastronomie"],
+        "description": "In E2"
+    },
+    {
+        "id": "unt#connect_for",
+        "name": "Connect For",
+        "room": "R21",
+        "floor": 2,
+        "x": 160,
+        "y": 26,
+        "aliases": ["Connect For", "R21", "Sonstiges"],
+        "description": "In R21"
+    },
+    {
+        "id": "unt#crepes_und_pancaces_lieferservice",
+        "name": "Crepes und Pancaces",
+        "room": "R32",
+        "floor": 2,
+        "x": 240,
+        "y": 50,
+        "aliases": ["Crepes und Pancaces", "R32", "Sonstiges"],
+        "description": "In R32"
+    },
+    {
+        "id": "unt#biomed_ohne_stone_institue",
+        "name": "Biomed ohne-Stone Institute",
+        "room": "Bio 1",
+        "floor": 1,
+        "x": 178,
+        "y": 51,
+        "aliases": ["Biomed ohne-Stone Institute", "Bio 1", "Sonstiges"],
+        "description": "In Bio 1"
+    },
+    {
+        "id": "unt#kaya_consultion_ohg",
+        "name": "Kaya Consultion OHG",
+        "room": "Chemie 4",
+        "floor": 1,
+        "x": 242,
+        "y": 51,
+        "aliases": ["Kaya Consultion OHG", "Chemie 4", "Sonstiges"],
+        "description": "In Chemie 4"
+    },
+    {
+        "id": "unt#rechtsanwaltskanzlei_becker_und_partner",
+        "name": "Rechtsanwaltskanzlei Becker und Partner",
+        "room": "Chemie 2",
+        "floor": 1,
+        "x": 242,
+        "y": 51,
+        "aliases": ["Rechtsanwaltskanzlei Becker und Partner", "Chemie 2", "Sonstiges"],
+        "description": "In Chemie 2"
+    },
+    {
+        "id": "unt#fast_delivery",
+        "name": "Fast Delivery",
+        "room": "U1",
+        "floor": 1,
+        "x": 111,
+        "y": 49,
+        "aliases": ["Fast Delivery", "U1", "Sonstiges"],
+        "description": "In U1"
+    },
+    {
+        "id": "unt#kunsthandwerk_andenken",
+        "name": "Kunsthandwerk, Andenken",
+        "room": "NWT 1",
+        "floor": 1,
+        "x": 260,
+        "y": 50,
+        "aliases": ["Kunsthandwerk, Andenken", "NWT 1", "Kunst und Kultur"],
+        "description": "In NWT 1"
+    }
+]

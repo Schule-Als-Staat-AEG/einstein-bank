@@ -1,0 +1,10 @@
+{
+  "data": {
+    "emailReceiver": "test@example.com",
+    "emailSubject": "Test Email",
+    "emailBody": "This is a test email from Einstein Bank."
+  },
+  "tests": {
+    "email": false
+  }
+}

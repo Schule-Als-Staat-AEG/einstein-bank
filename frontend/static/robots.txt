@@ -1,0 +1,3 @@
+# managed by meta tag
+User-agent: *
+Disallow: 

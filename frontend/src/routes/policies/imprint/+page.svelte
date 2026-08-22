@@ -39,7 +39,7 @@
 						<h2 class="text-lg font-medium">Kontakt</h2>
 						<p class="mt-2 text-sm leading-relaxed">
 							Telefon: <a
-								href="tel:+[your phone number here]
+								href="tel:+[your phone number here]"
 								class="underline"
 								style="color:var(--color-primary, #2563eb)">+[Your Phone Number]</a
 							><br />

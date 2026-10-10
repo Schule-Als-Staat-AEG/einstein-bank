@@ -43,3 +43,6 @@ npm install
 <p>Der Server benötigt Einstellungen aus der Settings Collection. Ein Beispiel befindet sich in settings_records_to_insert.json</p>
 
 <p>Das bauen des Projektes ist für Linux ausgelegt. Es befinden sich aber Helper Scripte für den Upload in der Repository</p>
+
+## Lizenz
+Mit - Mach was du willst
